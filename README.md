@@ -1,32 +1,38 @@
 # AI Annotation Portfolio
 
-High-quality annotated datasets and Model Critiques created for training AI models in document understanding, dashboard interpretation, geospatial analysis and business process automation.
+Collection of high-quality annotated datasets and model critiques developed for training AI models in document understanding, business intelligence and geospatial analysis.
 
 ### Datasets
 
-- **Ukrainian Financial Documents** (`invoices_Ukraine`)  
-  Real Ukrainian invoices, tax invoices and primary accounting records (110 classes)
+**Ukrainian Financial Documents** (`invoices_Ukraine`)  
+Real Ukrainian tax invoices, acts and primary accounting records (110 classes).  
+[→ Open folder](https://github.com/svetlanach2023-lab/AI_Annotation/tree/main/invoices_Ukraine)
 
-- **European Invoices** (`Invoice`)  
-  Real Estonian invoices from import transactions (129 classes)
+**European Invoices** (`Invoice`)  
+Real Estonian import invoices from international trade (129 classes).  
+[→ Open folder](https://github.com/svetlanach2023-lab/AI_Annotation/tree/main/Invoice)
 
-- **Business Intelligence Dashboards** (`dashboard`)  
-  Annotated Power BI and Excel dashboards with KPI cards, charts and filters (54 classes)
+**Business Intelligence Dashboards** (`dashboard`)  
+Annotated Power BI and Excel dashboards with KPI cards, charts and interactive elements (54 classes).  
+[→ Open folder](https://github.com/svetlanach2023-lab/AI_Annotation/tree/main/dashboard)
 
-- **Odesa Region Geospatial Map** (`map_Odesa`)  
-  Annotated administrative districts of Odesa Oblast (7 classes)
+**Odesa Region Geospatial Map** (`map_Odesa`)  
+Annotated administrative districts of Odesa Oblast for geospatial recognition (7 classes).  
+[→ Open folder](https://github.com/svetlanach2023-lab/AI_Annotation/tree/main/map_Odesa)
 
-- **Model Critiques** (`critiques_of_business_issues`)  
-  Structured evaluation of Grok AI responses on financial and operational topics
+**Model Critiques** (`critiques_of_business_issues`)  
+Structured evaluation of Grok AI responses on financial, operational and business topics.  
+[→ Open folder](https://github.com/svetlanach2023-lab/AI_Annotation/tree/main/critiques_of_business_issues)
 
 ### Technologies
 - Annotation Tool: CVAT  
 - Format: YOLO  
-- Total classes: 300+
+- Total annotation classes: 300+
 
 ### Purpose
-This portfolio demonstrates practical expertise in **Data Labeling, High-Quality Annotation, Quality Control and Model Critiques** — core skills required for the Human Data Team at xAI.
+This portfolio showcases practical expertise in data labeling, high-quality annotation, quality control and model critique — core competencies for AI training and improvement.
 
 ---
 
-Created by Svetlana Ch. — Building real-world AI training data from business operations.
+Created by Svetlana Ch.  
+Focused on building real-world AI training data from business and financial operations.
