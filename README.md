@@ -1,38 +1,47 @@
 # AI Annotation Portfolio
 
-High-quality annotated datasets and structured model critiques developed for training AI models in real-world document understanding, business intelligence and geospatial analysis.
+Curated collection of high-quality annotated datasets and structured model critiques developed specifically for training and improving large language models and computer vision systems in real-world business and financial contexts.
 
 ### Datasets
 
-**Ukrainian Financial Documents** (`invoices_Ukraine`)  
-Real Ukrainian tax invoices, acts of completed works and primary accounting records (110 classes).  
-[→ Open folder](https://github.com/svetlanach2023-lab/AI_Annotation/tree/main/invoices_Ukraine)
+**[Ukrainian Financial Documents](https://github.com/svetlanach2023-lab/AI_Annotation/blob/main/invoices_Ukraine/README.md)**  
+Real Ukrainian primary accounting documents, tax invoices (НН), acts of completed works and supporting financial records.  
+• 110 annotation classes  
+• Focus on complex tabular structures, legal entities, financial calculations, seals and compliance elements  
+• Created from actual operational workflows of Ukrainian enterprises
 
-**European Invoices** (`Invoice`)  
-Real Estonian import invoices from international trade transactions (129 classes).  
-[→ Open folder](https://github.com/svetlanach2023-lab/AI_Annotation/tree/main/Invoice)
+**[European Invoices](https://github.com/svetlanach2023-lab/AI_Annotation/blob/main/Invoice/README.md)**  
+Real Estonian import invoices received during international trade operations.  
+• 129 annotation classes  
+• European commercial invoice format and terminology  
+• Designed to improve cross-border document understanding and multi-country financial processing
 
-**Business Intelligence Dashboards** (`dashboard`)  
-Annotated Power BI and Excel dashboards featuring KPI cards, charts, trends and interactive filters (54 classes).  
-[→ Open folder](https://github.com/svetlanach2023-lab/AI_Annotation/tree/main/dashboard)
+**[Business Intelligence Dashboards](https://github.com/svetlanach2023-lab/AI_Annotation/blob/main/dashboard/README.md)**  
+Annotated collection of real Power BI and Excel management dashboards.  
+• 54 annotation classes  
+• Covers KPI cards, charts, trends, interactive filters, slicers and visual hierarchy  
+• Focused on training AI to interpret and extract insights from modern business intelligence interfaces
 
-**Odesa Region Geospatial Map** (`map_Odesa`)  
-Annotated administrative districts of Odesa Oblast for geospatial recognition tasks (7 classes).  
-[→ Open folder](https://github.com/svetlanach2023-lab/AI_Annotation/tree/main/map_Odesa)
+**[Odesa Region Geospatial Map](https://github.com/svetlanach2023-lab/AI_Annotation/blob/main/map_Odesa/README.md)**  
+High-precision annotation of the administrative map of Odesa Oblast.  
+• 7 classes (districts and key geographical areas)  
+• Designed for geospatial recognition and territorial analysis tasks
 
-**Model Critiques** (`critiques_of_business_issues`)  
-Structured evaluation of Grok AI responses across financial, operational and business domains.  
-[→ Open folder](https://github.com/svetlanach2023-lab/AI_Annotation/tree/main/critiques_of_business_issues)
+**[Model Critiques](https://github.com/svetlanach2023-lab/AI_Annotation/blob/main/critiques_of_business_issues/README.md)**  
+Structured critical evaluation of Grok AI responses on financial analysis, operational efficiency, investment decisions, budgeting and business strategy topics.  
+• Includes prompt, model output, detailed critique, hallucination detection, logical gaps and improvement recommendations
 
-### Technologies & Tools
-- Annotation Platform: CVAT  
-- Format: YOLO  
-- Total Classes: 300+
+### Technologies & Methodology
+- Annotation Platform: **CVAT**
+- Annotation Format: **YOLO**
+- Quality Control: Inter-annotator validation and consistency checks
+- Total annotated classes: **300+**
 
 ### Purpose
-This portfolio demonstrates practical expertise in **Data Labeling, High-Quality Annotation, Quality Control, and Model Critiques** — essential skills for the Human Data Team at xAI.
+This portfolio showcases hands-on expertise in creating production-grade training data for AI models. It demonstrates the ability to produce accurate, consistent and business-relevant annotations — essential for improving model performance in document understanding, visual analysis and complex reasoning tasks.
 
 ---
 
-Created by Svetlana Ch.  
-Focused on building accurate, real-world AI training data from business and financial operations.
+Created by **Svetlana Ch.**  
+Business & Operations Leader turned AI Data Specialist  
+Focused on bridging real enterprise processes with high-quality AI training data.
